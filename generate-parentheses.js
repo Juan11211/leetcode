@@ -3,7 +3,6 @@
 // * @param {number} n
 // * @return {string[]}
 // */
-
 var generateParenthesis = function(n) {
     // Resultant list
    const result = [];
